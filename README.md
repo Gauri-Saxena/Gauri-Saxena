@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hey, I'm Gauri Saxena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<!--
-**Gauri-Saxena/Gauri-Saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🤓 About Me</h2>
 
-Here are some ideas to get you started:
+- I am a tech enthusiast. 🤠
+- I am currently a second year Computer Science Student. 👨‍🎓
+- Here is my [Linkedin Profile](https://www.linkedin.com/in/gauri-saxena-454306251). Feel free to connect! 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🛠 Tech Stack</h2>
+
+ <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width=60><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=60>  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60><img src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png" width=60>
+
+<img src="https://komarev.com/ghpvc/?username=Gauri-Saxena&style=flat-square&color=blue" alt=""/>
+
+<h2>📈 Gauri's Github Stats</h2>
+
+<a href="http://www.github.com/Gauri-Saxena"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauri-Saxena&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+
